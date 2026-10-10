@@ -1,0 +1,14 @@
+# Versions the LUH-data-1/-2 runs used (Python 3.14).
+lm_polygraph==0.7.0
+transformers==5.13.1
+tokenizers==0.22.2
+datasets==5.0.0
+huggingface_hub==1.23.0
+openai==2.49.0
+torch==2.13.0
+accelerate==1.14.0
+sentencepiece==0.2.2
+numpy==2.5.1
+pandas==3.0.3
+openpyxl==3.1.5
+tqdm==4.68.4
